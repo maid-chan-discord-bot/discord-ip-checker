@@ -9,4 +9,17 @@ Just simple discord ip checker<br>
 
 
 
+# Run
+
+## Run (Windows) <br>
+``` python main.py ``` Or ``` py main.py ```
+
+## Run (Linux and mac) <br>
+``` python3 main.py``` 
+
+
+Thank you!
+Make By nattawatt#8556
+
+
 
